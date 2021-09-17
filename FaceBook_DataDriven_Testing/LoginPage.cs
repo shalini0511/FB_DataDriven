@@ -22,6 +22,9 @@ namespace FaceBook_DataDriven_Testing
             [FindsBy(How = How.Name, Using = "login")]
             [CacheLookup]
             public IWebElement loginBtn;
+
+            
+
     }
 
     

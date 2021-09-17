@@ -1,0 +1,134 @@
+2021-09-16 20:00:18,956 INFO Entering Setup
+2021-09-16 20:00:26,541 DEBUG navigating to url
+2021-09-16 20:00:26,542 INFO Exiting setup
+2021-09-16 20:00:28,984 INFO email entered
+2021-09-16 20:00:31,188 INFO Password entered
+2021-09-16 20:00:43,333 INFO Logged in successfully
+2021-09-17 10:45:31,950 INFO Entering Setup
+2021-09-17 10:45:39,595 DEBUG navigating to url
+2021-09-17 10:45:39,597 INFO Exiting setup
+2021-09-17 10:45:42,088 INFO email entered
+2021-09-17 10:45:44,267 INFO Password entered
+2021-09-17 10:45:56,421 INFO Logged in successfully
+2021-09-17 10:45:57,393 INFO Entering Setup
+2021-09-17 10:46:02,014 DEBUG navigating to url
+2021-09-17 10:46:02,015 INFO Exiting setup
+2021-09-17 10:50:31,796 INFO Entering Setup
+2021-09-17 10:50:38,722 DEBUG navigating to url
+2021-09-17 10:50:38,722 INFO Exiting setup
+2021-09-17 10:50:41,108 INFO email entered
+2021-09-17 10:50:43,316 INFO Password entered
+2021-09-17 10:50:55,448 INFO Logged in successfully
+2021-09-17 10:50:56,508 INFO Entering Setup
+2021-09-17 10:51:01,617 DEBUG navigating to url
+2021-09-17 10:51:01,618 INFO Exiting setup
+2021-09-17 10:51:02,961 INFO create new account button Clicked
+2021-09-17 10:54:10,197 INFO Entering Setup
+2021-09-17 10:54:17,844 DEBUG navigating to url
+2021-09-17 10:54:17,845 INFO Exiting setup
+2021-09-17 10:54:19,627 INFO create new account button Clicked
+2021-09-17 11:05:08,033 INFO Entering Setup
+2021-09-17 11:05:14,375 DEBUG navigating to url
+2021-09-17 11:05:14,376 INFO Exiting setup
+2021-09-17 11:05:16,791 INFO email entered
+2021-09-17 11:05:19,160 INFO Password entered
+2021-09-17 11:05:31,372 INFO Logged in successfully
+2021-09-17 11:06:42,219 INFO Entering Setup
+2021-09-17 11:06:52,870 DEBUG navigating to url
+2021-09-17 11:06:52,871 INFO Exiting setup
+2021-09-17 11:06:54,573 INFO create new account button Clicked
+2021-09-17 11:06:55,959 INFO firstname entered
+2021-09-17 11:06:57,367 INFO lastname entered
+2021-09-17 11:06:59,316 INFO Logged in successfully
+2021-09-17 11:07:00,912 INFO email confirmed successfully
+2021-09-17 11:07:02,316 INFO password entered
+2021-09-17 11:07:03,662 INFO birth date  entered
+2021-09-17 11:07:05,087 INFO birth month entered
+2021-09-17 11:07:06,413 INFO birth year entered
+2021-09-17 11:07:08,708 INFO gender selected
+2021-09-17 11:07:21,082 INFO submit button Clicked
+2021-09-17 11:11:19,887 INFO Entering Setup
+2021-09-17 11:11:25,063 DEBUG navigating to url
+2021-09-17 11:11:25,064 INFO Exiting setup
+2021-09-17 11:11:26,607 INFO create new account button Clicked
+2021-09-17 11:12:09,555 INFO Entering Setup
+2021-09-17 11:12:14,608 DEBUG navigating to url
+2021-09-17 11:12:14,609 INFO Exiting setup
+2021-09-17 11:12:16,125 INFO create new account button Clicked
+2021-09-17 11:17:25,220 INFO Entering Setup
+2021-09-17 11:17:30,584 DEBUG navigating to url
+2021-09-17 11:17:30,585 INFO Exiting setup
+2021-09-17 11:17:32,444 INFO create new account button Clicked
+2021-09-17 11:17:33,801 INFO firstname entered
+2021-09-17 11:17:35,251 INFO lastname entered
+2021-09-17 11:17:36,662 INFO Logged in successfully
+2021-09-17 11:17:38,183 INFO email confirmed successfully
+2021-09-17 11:17:39,664 INFO password entered
+2021-09-17 11:17:41,076 INFO birth date  entered
+2021-09-17 11:17:42,414 INFO birth month entered
+2021-09-17 11:17:43,866 INFO birth year entered
+2021-09-17 11:17:46,158 INFO gender selected
+2021-09-17 11:17:58,754 INFO submit button Clicked
+2021-09-17 11:20:45,060 INFO Entering Setup
+2021-09-17 11:20:52,066 DEBUG navigating to url
+2021-09-17 11:20:52,066 INFO Exiting setup
+2021-09-17 11:20:53,766 INFO create new account button Clicked
+2021-09-17 11:20:55,208 INFO firstname entered
+2021-09-17 11:20:56,659 INFO lastname entered
+2021-09-17 11:20:58,384 INFO Logged in successfully
+2021-09-17 11:20:59,849 INFO email confirmed successfully
+2021-09-17 11:21:01,167 INFO password entered
+2021-09-17 11:21:02,483 INFO birth date  entered
+2021-09-17 11:21:03,760 INFO birth month entered
+2021-09-17 11:21:05,081 INFO birth year entered
+2021-09-17 11:21:07,338 INFO gender selected
+2021-09-17 11:21:19,617 INFO submit button Clicked
+2021-09-17 11:21:20,985 INFO Entering Setup
+2021-09-17 11:21:26,212 DEBUG navigating to url
+2021-09-17 11:21:26,213 INFO Exiting setup
+2021-09-17 11:22:06,721 INFO Entering Setup
+2021-09-17 11:22:11,263 DEBUG navigating to url
+2021-09-17 11:22:11,263 INFO Exiting setup
+2021-09-17 11:22:12,800 INFO create new account button Clicked
+2021-09-17 11:22:14,131 INFO firstname entered
+2021-09-17 11:22:15,502 INFO lastname entered
+2021-09-17 11:22:17,083 INFO Logged in successfully
+2021-09-17 11:22:18,844 INFO email confirmed successfully
+2021-09-17 11:22:20,317 INFO password entered
+2021-09-17 11:22:21,696 INFO birth date  entered
+2021-09-17 11:22:23,031 INFO birth month entered
+2021-09-17 11:22:24,330 INFO birth year entered
+2021-09-17 11:22:26,626 INFO gender selected
+2021-09-17 11:22:39,150 INFO submit button Clicked
+2021-09-17 11:22:41,261 INFO Entering Setup
+2021-09-17 11:22:46,078 DEBUG navigating to url
+2021-09-17 11:22:46,078 INFO Exiting setup
+2021-09-17 11:25:00,721 INFO Entering Setup
+2021-09-17 11:25:07,195 DEBUG navigating to url
+2021-09-17 11:25:07,195 INFO Exiting setup
+2021-09-17 11:25:08,794 INFO create new account button Clicked
+2021-09-17 11:25:10,213 INFO firstname entered
+2021-09-17 11:25:11,707 INFO lastname entered
+2021-09-17 11:25:13,414 INFO Logged in successfully
+2021-09-17 11:25:14,936 INFO email confirmed successfully
+2021-09-17 11:25:16,407 INFO password entered
+2021-09-17 11:25:17,730 INFO birth date  entered
+2021-09-17 11:25:19,053 INFO birth month entered
+2021-09-17 11:25:20,387 INFO birth year entered
+2021-09-17 11:25:22,843 INFO gender selected
+2021-09-17 11:25:35,317 INFO submit button Clicked
+2021-09-17 11:25:36,515 INFO Entering Setup
+2021-09-17 11:25:42,021 DEBUG navigating to url
+2021-09-17 11:25:42,022 INFO Exiting setup
+2021-09-17 11:35:53,758 INFO Entering Setup
+2021-09-17 11:35:59,617 DEBUG navigating to url
+2021-09-17 11:35:59,618 INFO Exiting setup
+2021-09-17 11:36:02,060 INFO email entered
+2021-09-17 11:36:04,342 INFO Password entered
+2021-09-17 11:36:16,499 INFO Logged in successfully
+2021-09-17 11:38:39,530 INFO Entering Setup
+2021-09-17 11:38:46,787 DEBUG navigating to url
+2021-09-17 11:38:46,787 INFO Exiting setup
+2021-09-17 11:38:49,361 INFO email entered
+2021-09-17 11:38:51,997 INFO Password entered
+2021-09-17 11:39:04,357 INFO Logged in successfully
