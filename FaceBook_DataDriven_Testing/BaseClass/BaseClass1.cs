@@ -10,10 +10,11 @@ using log4net.Repository;
 using NUnit.Framework;
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Firefox;
 
 namespace FaceBook_DataDriven_Testing.BaseClass
 {
-    public class BaseClass1
+    public class BaseClass1 
     {
         public static IWebDriver driver;
         //Get Logger for fully qualified name for type of 'Tests'
@@ -37,7 +38,7 @@ namespace FaceBook_DataDriven_Testing.BaseClass
                 log.Info("Entering Setup");
                 //local selenium webdriver
                 ChromeOptions options = new ChromeOptions();
-                options.AddArgument("--disable-notifications");
+                options.AddArguments("--disable-notifications");
                 driver = new ChromeDriver(options);
                 driver.Url = "https://www.facebook.com/";
                 //To Maximize window
@@ -59,6 +60,16 @@ namespace FaceBook_DataDriven_Testing.BaseClass
         public void TearDown()
         {
             driver.Quit();
+        }
+        //Method for ScreenShot
+        public static void ScreenShot()
+        {
+            ITakesScreenshot screenshotDriver = driver as ITakesScreenshot;
+            Screenshot screenshot = screenshotDriver.GetScreenshot();
+            screenshot.SaveAsFile(@"C:\Users\HP\source\repos\FaceBook_DataDriven_Testing\FaceBook_DataDriven_Testing\Screenshots\test2.jpg");
+
+
+
         }
     }
 }

@@ -574,3 +574,650 @@
 2021-09-20 13:38:35,426 INFO Home is clicked
 2021-09-20 13:38:39,193 INFO Photo icon clicked
 2021-09-20 13:38:43,451 INFO Add Photo icon clicked
+2021-09-20 16:19:35,240 INFO Entering Setup
+2021-09-20 16:19:43,863 DEBUG navigating to url
+2021-09-20 16:19:43,863 INFO Exiting setup
+2021-09-20 16:19:45,978 INFO email entered
+2021-09-20 16:19:47,495 INFO Password entered
+2021-09-20 16:20:00,157 INFO Logged in successfully
+2021-09-20 16:20:02,269 INFO Home is clicked
+2021-09-20 16:20:46,965 INFO Entering Setup
+2021-09-20 16:20:54,678 DEBUG navigating to url
+2021-09-20 16:20:54,679 INFO Exiting setup
+2021-09-20 16:20:56,468 INFO email entered
+2021-09-20 16:20:58,017 INFO Password entered
+2021-09-20 16:21:10,703 INFO Logged in successfully
+2021-09-20 16:21:12,898 INFO Home is clicked
+2021-09-20 16:21:16,002 INFO Photo icon clicked
+2021-09-20 16:21:19,233 INFO Add Photo icon clicked
+2021-09-20 16:21:27,949 INFO post Photo icon clicked
+2021-09-20 16:23:04,908 INFO Entering Setup
+2021-09-20 16:23:11,975 DEBUG navigating to url
+2021-09-20 16:23:11,975 INFO Exiting setup
+2021-09-20 16:23:13,575 INFO email entered
+2021-09-20 16:23:14,989 INFO Password entered
+2021-09-20 16:23:27,448 INFO Logged in successfully
+2021-09-20 16:23:30,003 INFO Home is clicked
+2021-09-20 16:25:59,306 INFO Entering Setup
+2021-09-20 16:26:06,863 DEBUG navigating to url
+2021-09-20 16:26:06,864 INFO Exiting setup
+2021-09-20 16:26:08,619 INFO email entered
+2021-09-20 16:26:09,968 INFO Password entered
+2021-09-20 16:26:22,386 INFO Logged in successfully
+2021-09-20 16:26:24,612 INFO Home is clicked
+2021-09-20 16:27:02,286 INFO Entering Setup
+2021-09-20 16:27:10,047 DEBUG navigating to url
+2021-09-20 16:27:10,050 INFO Exiting setup
+2021-09-20 16:27:12,106 INFO email entered
+2021-09-20 16:27:13,618 INFO Password entered
+2021-09-20 16:27:26,195 INFO Logged in successfully
+2021-09-20 16:27:28,331 INFO Home is clicked
+2021-09-20 16:27:31,937 INFO Photo icon clicked
+2021-09-20 16:27:35,685 INFO Add Photo icon clicked
+2021-09-20 16:27:45,939 INFO post Photo icon clicked
+2021-09-20 16:37:30,878 INFO Entering Setup
+2021-09-20 16:37:40,948 DEBUG navigating to url
+2021-09-20 16:37:40,949 INFO Exiting setup
+2021-09-20 16:37:43,098 INFO email entered
+2021-09-20 16:37:44,998 INFO Password entered
+2021-09-20 16:37:57,539 INFO Logged in successfully
+2021-09-20 16:37:59,939 INFO Home is clicked
+2021-09-20 16:38:04,297 INFO Photo icon clicked
+2021-09-20 16:38:08,273 INFO Add Photo icon clicked
+2021-09-20 16:38:32,590 INFO Entering Setup
+2021-09-20 16:38:38,919 DEBUG navigating to url
+2021-09-20 16:38:38,920 INFO Exiting setup
+2021-09-20 16:40:29,810 INFO Entering Setup
+2021-09-20 16:40:40,409 DEBUG navigating to url
+2021-09-20 16:40:40,410 INFO Exiting setup
+2021-09-20 16:40:42,498 INFO email entered
+2021-09-20 16:40:43,910 INFO Password entered
+2021-09-20 16:40:56,307 INFO Logged in successfully
+2021-09-20 16:40:58,288 INFO Home is clicked
+2021-09-20 16:41:02,280 INFO Photo icon clicked
+2021-09-20 16:41:06,341 INFO Add Photo icon clicked
+2021-09-20 16:41:25,974 INFO Entering Setup
+2021-09-20 16:41:31,156 DEBUG navigating to url
+2021-09-20 16:41:31,157 INFO Exiting setup
+2021-09-20 16:49:58,616 INFO Entering Setup
+2021-09-20 16:50:07,228 DEBUG navigating to url
+2021-09-20 16:50:07,228 INFO Exiting setup
+2021-09-20 16:50:08,865 INFO email entered
+2021-09-20 16:50:10,411 INFO Password entered
+2021-09-20 16:50:23,631 INFO Logged in successfully
+2021-09-20 16:50:25,580 INFO Home is clicked
+2021-09-20 16:50:32,021 INFO Entering Setup
+2021-09-20 16:50:39,476 DEBUG navigating to url
+2021-09-20 16:50:39,476 INFO Exiting setup
+2021-09-20 16:53:40,466 INFO Entering Setup
+2021-09-20 16:53:48,327 DEBUG navigating to url
+2021-09-20 16:53:48,327 INFO Exiting setup
+2021-09-20 16:53:50,047 INFO email entered
+2021-09-20 16:53:51,699 INFO Password entered
+2021-09-20 16:54:04,385 INFO Logged in successfully
+2021-09-20 16:54:07,290 INFO Home is clicked
+2021-09-20 16:54:48,295 INFO Entering Setup
+2021-09-20 16:54:54,527 DEBUG navigating to url
+2021-09-20 16:54:54,528 INFO Exiting setup
+2021-09-20 16:54:57,179 INFO email entered
+2021-09-20 16:54:58,681 INFO Password entered
+2021-09-20 16:55:11,188 INFO Logged in successfully
+2021-09-20 16:55:13,897 INFO Home is clicked
+2021-09-20 16:55:50,746 INFO Entering Setup
+2021-09-20 16:56:00,734 DEBUG navigating to url
+2021-09-20 16:56:00,734 INFO Exiting setup
+2021-09-20 16:56:03,013 INFO email entered
+2021-09-20 16:56:04,512 INFO Password entered
+2021-09-20 16:56:18,108 INFO Logged in successfully
+2021-09-20 16:56:21,606 INFO Home is clicked
+2021-09-20 16:56:25,055 INFO Photo icon clicked
+2021-09-20 16:56:28,873 INFO Add Photo icon clicked
+2021-09-20 16:56:39,635 INFO post Photo icon clicked
+2021-09-20 16:59:03,504 INFO Entering Setup
+2021-09-20 16:59:11,194 DEBUG navigating to url
+2021-09-20 16:59:11,197 INFO Exiting setup
+2021-09-20 16:59:12,951 INFO email entered
+2021-09-20 16:59:14,506 INFO Password entered
+2021-09-20 16:59:28,131 INFO Logged in successfully
+2021-09-20 16:59:31,892 INFO Home is clicked
+2021-09-20 16:59:52,396 INFO Entering Setup
+2021-09-20 17:00:01,476 DEBUG navigating to url
+2021-09-20 17:00:01,477 INFO Exiting setup
+2021-09-20 17:00:04,219 INFO email entered
+2021-09-20 17:00:05,873 INFO Password entered
+2021-09-20 17:00:18,445 INFO Logged in successfully
+2021-09-20 17:00:22,435 INFO Home is clicked
+2021-09-20 17:00:26,068 INFO Photo icon clicked
+2021-09-20 17:00:30,488 INFO Add Photo icon clicked
+2021-09-20 17:00:41,392 INFO post Photo icon clicked
+2021-09-20 17:03:24,014 INFO Entering Setup
+2021-09-20 17:03:33,406 DEBUG navigating to url
+2021-09-20 17:03:33,407 INFO Exiting setup
+2021-09-20 17:03:35,107 INFO email entered
+2021-09-20 17:03:37,578 INFO Password entered
+2021-09-20 17:03:49,976 INFO Logged in successfully
+2021-09-20 17:03:54,758 INFO Home is clicked
+2021-09-20 17:03:58,440 INFO Photo icon clicked
+2021-09-20 17:04:02,188 INFO Add Photo icon clicked
+2021-09-20 17:04:13,270 INFO post Photo icon clicked
+2021-09-20 17:06:07,405 INFO Entering Setup
+2021-09-20 17:06:14,899 DEBUG navigating to url
+2021-09-20 17:06:14,899 INFO Exiting setup
+2021-09-20 17:06:16,550 INFO email entered
+2021-09-20 17:06:17,941 INFO Password entered
+2021-09-20 17:06:30,298 INFO Logged in successfully
+2021-09-20 17:06:34,038 INFO Home is clicked
+2021-09-20 17:06:38,033 INFO Photo icon clicked
+2021-09-20 17:06:41,744 INFO Add Photo icon clicked
+2021-09-20 17:06:52,559 INFO post Photo icon clicked
+2021-09-20 17:10:59,211 INFO Entering Setup
+2021-09-20 17:11:09,686 DEBUG navigating to url
+2021-09-20 17:11:09,687 INFO Exiting setup
+2021-09-20 17:11:11,471 INFO email entered
+2021-09-20 17:11:14,520 INFO Password entered
+2021-09-20 17:11:27,199 INFO Logged in successfully
+2021-09-20 17:11:31,611 INFO Home is clicked
+2021-09-20 17:11:35,678 INFO Photo icon clicked
+2021-09-20 17:11:39,615 INFO Add Photo icon clicked
+2021-09-20 17:11:49,991 INFO post Photo icon clicked
+2021-09-23 20:17:12,185 INFO Entering Setup
+2021-09-23 20:17:15,486 ERROR unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=94.0.4606.54)
+2021-09-23 20:17:16,543 INFO Entering Setup
+2021-09-23 20:17:19,538 ERROR unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=94.0.4606.54)
+2021-09-23 20:18:04,041 INFO Entering Setup
+2021-09-23 20:18:06,447 ERROR unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=94.0.4606.54)
+2021-09-23 20:18:07,418 INFO Entering Setup
+2021-09-23 20:18:10,394 ERROR unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=94.0.4606.54)
+2021-09-23 20:18:26,666 INFO Entering Setup
+2021-09-23 20:18:32,417 DEBUG navigating to url
+2021-09-23 20:18:32,417 INFO Exiting setup
+2021-09-23 20:18:34,440 INFO email entered
+2021-09-23 20:18:36,541 INFO Password entered
+2021-09-23 20:18:49,435 INFO Logged in successfully
+2021-09-23 20:18:53,773 INFO Home is clicked
+2021-09-23 20:18:57,397 INFO Photo icon clicked
+2021-09-23 20:19:01,210 INFO Add Photo icon clicked
+2021-09-23 20:19:10,173 INFO post Photo icon clicked
+2021-09-23 20:19:18,915 INFO Entering Setup
+2021-09-23 20:19:24,048 DEBUG navigating to url
+2021-09-23 20:19:24,049 INFO Exiting setup
+2021-09-23 20:25:16,169 INFO Entering Setup
+2021-09-23 20:25:18,367 ERROR unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=94.0.4606.54)
+2021-09-23 20:25:19,066 INFO Entering Setup
+2021-09-23 20:25:21,526 ERROR unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=94.0.4606.54)
+2021-09-23 20:26:02,747 INFO Entering Setup
+2021-09-23 20:26:06,869 DEBUG navigating to url
+2021-09-23 20:26:06,869 INFO Exiting setup
+2021-09-23 20:26:08,313 INFO email entered
+2021-09-23 20:26:09,644 INFO Password entered
+2021-09-23 20:26:21,963 INFO Logged in successfully
+2021-09-23 20:26:25,428 INFO Home is clicked
+2021-09-23 20:26:28,783 INFO Photo icon clicked
+2021-09-23 20:26:32,259 INFO Add Photo icon clicked
+2021-09-23 20:26:41,140 INFO post Photo icon clicked
+2021-09-23 20:26:49,279 INFO Entering Setup
+2021-09-23 20:26:54,488 DEBUG navigating to url
+2021-09-23 20:26:54,489 INFO Exiting setup
+2021-09-23 20:32:32,909 INFO Entering Setup
+2021-09-23 20:32:37,151 DEBUG navigating to url
+2021-09-23 20:32:37,152 INFO Exiting setup
+2021-09-23 20:32:38,567 INFO email entered
+2021-09-23 20:32:39,726 INFO Password entered
+2021-09-23 20:32:51,829 INFO Logged in successfully
+2021-09-23 20:32:57,995 INFO Entering Setup
+2021-09-23 20:33:04,103 DEBUG navigating to url
+2021-09-23 20:33:04,104 INFO Exiting setup
+2021-09-23 20:35:04,126 INFO Entering Setup
+2021-09-23 20:35:08,699 DEBUG navigating to url
+2021-09-23 20:35:08,700 INFO Exiting setup
+2021-09-23 20:35:10,147 INFO email entered
+2021-09-23 20:35:11,366 INFO Password entered
+2021-09-23 20:35:23,474 INFO Logged in successfully
+2021-09-23 20:35:29,909 INFO Entering Setup
+2021-09-23 20:35:34,830 DEBUG navigating to url
+2021-09-23 20:35:34,831 INFO Exiting setup
+2021-09-23 20:37:48,330 INFO Entering Setup
+2021-09-23 20:38:06,999 DEBUG navigating to url
+2021-09-23 20:38:07,001 INFO Exiting setup
+2021-09-23 20:38:08,324 INFO email entered
+2021-09-23 20:38:09,495 INFO Password entered
+2021-09-23 20:38:21,595 INFO Logged in successfully
+2021-09-24 11:22:59,480 INFO Entering Setup
+2021-09-24 11:23:04,145 ERROR unknown error: net::ERR_INTERNET_DISCONNECTED
+  (Session info: chrome=94.0.4606.54)
+2021-09-24 11:23:29,995 INFO Entering Setup
+2021-09-24 11:23:39,861 DEBUG navigating to url
+2021-09-24 11:23:39,861 INFO Exiting setup
+2021-09-24 11:23:41,785 INFO email entered
+2021-09-24 11:23:42,999 INFO Password entered
+2021-09-24 11:23:55,145 INFO Logged in successfully
+2021-09-24 11:23:58,392 INFO Home is clicked
+2021-09-24 11:24:01,584 INFO Photo icon clicked
+2021-09-24 11:24:04,879 INFO Add Photo icon clicked
+2021-09-24 11:24:13,380 INFO post Photo icon clicked
+2021-09-24 11:25:08,719 INFO Entering Setup
+2021-09-24 11:25:18,884 DEBUG navigating to url
+2021-09-24 11:25:18,885 INFO Exiting setup
+2021-09-24 11:25:20,337 INFO email entered
+2021-09-24 11:25:21,571 INFO Password entered
+2021-09-24 11:25:33,724 INFO Logged in successfully
+2021-09-24 11:25:37,052 INFO Home is clicked
+2021-09-24 11:25:40,307 INFO Photo icon clicked
+2021-09-24 11:25:43,596 INFO Add Photo icon clicked
+2021-09-24 11:25:52,047 INFO post Photo icon clicked
+2021-09-24 11:27:55,633 INFO Entering Setup
+2021-09-24 11:28:02,553 DEBUG navigating to url
+2021-09-24 11:28:02,554 INFO Exiting setup
+2021-09-24 11:28:03,951 INFO email entered
+2021-09-24 11:28:05,130 INFO Password entered
+2021-09-24 11:28:17,265 INFO Logged in successfully
+2021-09-24 11:28:20,553 INFO Home is clicked
+2021-09-24 11:28:23,798 INFO Photo icon clicked
+2021-09-24 11:28:27,077 INFO Add Photo icon clicked
+2021-09-24 11:28:35,467 INFO post Photo icon clicked
+2021-09-24 15:10:03,693 INFO Entering Setup
+2021-09-24 15:10:09,969 DEBUG navigating to url
+2021-09-24 15:10:09,970 INFO Exiting setup
+2021-09-24 15:10:11,531 INFO email entered
+2021-09-24 15:10:12,779 INFO Password entered
+2021-09-24 15:10:24,965 INFO Logged in successfully
+2021-09-24 15:10:28,256 INFO Home is clicked
+2021-09-24 15:10:31,450 INFO Photo icon clicked
+2021-09-24 15:10:34,688 INFO Add Photo icon clicked
+2021-09-24 15:10:43,303 INFO post Photo icon clicked
+2021-09-24 15:15:16,602 INFO Entering Setup
+2021-09-24 15:15:22,000 DEBUG navigating to url
+2021-09-24 15:15:22,000 INFO Exiting setup
+2021-09-24 15:15:23,383 INFO email entered
+2021-09-24 15:15:24,591 INFO Password entered
+2021-09-24 15:15:36,766 INFO Logged in successfully
+2021-09-24 15:15:40,111 INFO Home is clicked
+2021-09-24 15:15:43,382 INFO Photo icon clicked
+2021-09-24 15:15:46,763 INFO Add Photo icon clicked
+2021-09-24 15:15:55,313 INFO post Photo icon clicked
+2021-09-24 15:16:07,116 INFO Entering Setup
+2021-09-24 15:16:15,305 DEBUG navigating to url
+2021-09-24 15:16:15,305 INFO Exiting setup
+2021-09-24 15:44:27,279 INFO Entering Setup
+2021-09-24 15:44:36,043 DEBUG navigating to url
+2021-09-24 15:44:36,044 INFO Exiting setup
+2021-09-24 15:44:37,465 INFO email entered
+2021-09-24 15:44:38,682 INFO Password entered
+2021-09-24 15:44:50,802 INFO Logged in successfully
+2021-09-24 15:44:54,749 INFO Home is clicked
+2021-09-24 15:44:58,184 INFO Photo icon clicked
+2021-09-24 15:45:01,539 INFO Add Photo icon clicked
+2021-09-24 15:45:10,102 INFO post Photo icon clicked
+2021-09-24 15:45:18,906 INFO Entering Setup
+2021-09-24 15:45:25,046 DEBUG navigating to url
+2021-09-24 15:45:25,047 INFO Exiting setup
+2021-09-30 10:24:07,782 INFO Entering Setup
+2021-09-30 10:24:14,559 DEBUG navigating to url
+2021-09-30 10:24:14,559 INFO Exiting setup
+2021-09-30 10:24:15,986 INFO email entered
+2021-09-30 10:24:17,168 INFO Password entered
+2021-09-30 10:24:29,310 INFO Logged in successfully
+2021-09-30 10:24:32,718 INFO Home is clicked
+2021-09-30 10:24:35,941 INFO Photo icon clicked
+2021-09-30 10:24:39,202 INFO Add Photo icon clicked
+2021-09-30 10:24:47,618 INFO post Photo icon clicked
+2021-09-30 10:24:55,252 INFO Entering Setup
+2021-09-30 10:25:01,207 DEBUG navigating to url
+2021-09-30 10:25:01,208 INFO Exiting setup
+2021-09-30 10:25:06,256 INFO Entering Setup
+2021-09-30 10:25:12,131 DEBUG navigating to url
+2021-09-30 10:25:12,132 INFO Exiting setup
+2021-09-30 10:39:17,209 INFO Entering Setup
+2021-09-30 10:39:24,475 DEBUG navigating to url
+2021-09-30 10:39:24,476 INFO Exiting setup
+2021-09-30 10:39:25,860 INFO email entered
+2021-09-30 10:39:27,086 INFO Password entered
+2021-09-30 10:39:39,213 INFO Logged in successfully
+2021-09-30 10:39:45,654 INFO Home is clicked
+2021-09-30 10:39:48,838 INFO Photo icon clicked
+2021-09-30 10:39:52,042 INFO Add Photo icon clicked
+2021-09-30 10:40:00,443 INFO post Photo icon clicked
+2021-09-30 10:40:08,923 INFO Entering Setup
+2021-09-30 10:40:13,908 DEBUG navigating to url
+2021-09-30 10:40:13,911 INFO Exiting setup
+2021-09-30 10:40:21,485 INFO Entering Setup
+2021-09-30 10:40:25,896 DEBUG navigating to url
+2021-09-30 10:40:25,897 INFO Exiting setup
+2021-09-30 10:42:40,352 INFO Entering Setup
+2021-09-30 10:42:44,937 DEBUG navigating to url
+2021-09-30 10:42:44,938 INFO Exiting setup
+2021-09-30 10:42:46,215 INFO email entered
+2021-09-30 10:42:47,358 INFO Password entered
+2021-09-30 10:42:59,517 INFO Logged in successfully
+2021-09-30 10:43:06,983 INFO Entering Setup
+2021-09-30 10:43:12,845 DEBUG navigating to url
+2021-09-30 10:43:12,847 INFO Exiting setup
+2021-09-30 10:43:19,287 INFO Entering Setup
+2021-09-30 10:43:28,649 DEBUG navigating to url
+2021-09-30 10:43:28,650 INFO Exiting setup
+2021-10-01 10:44:33,223 INFO Entering Setup
+2021-10-01 10:44:40,086 DEBUG navigating to url
+2021-10-01 10:44:40,086 INFO Exiting setup
+2021-10-01 10:44:41,507 INFO email entered
+2021-10-01 10:44:42,720 INFO Password entered
+2021-10-01 10:44:54,847 INFO Logged in successfully
+2021-10-01 10:45:03,827 INFO Entering Setup
+2021-10-01 10:45:09,362 DEBUG navigating to url
+2021-10-01 10:45:09,363 INFO Exiting setup
+2021-10-01 10:45:13,014 INFO Entering Setup
+2021-10-01 10:45:18,909 DEBUG navigating to url
+2021-10-01 10:45:18,909 INFO Exiting setup
+2021-10-01 10:45:20,069 INFO email entered
+2021-10-01 10:45:21,271 INFO Password entered
+2021-10-01 10:45:33,414 INFO Logged in successfully
+2021-10-01 11:07:26,465 INFO Entering Setup
+2021-10-01 11:07:32,084 DEBUG navigating to url
+2021-10-01 11:07:32,085 INFO Exiting setup
+2021-10-01 11:07:33,526 INFO email entered
+2021-10-01 11:07:34,735 INFO Password entered
+2021-10-01 11:07:46,912 INFO Logged in successfully
+2021-10-01 11:07:55,018 INFO Entering Setup
+2021-10-01 11:08:00,938 DEBUG navigating to url
+2021-10-01 11:08:00,941 INFO Exiting setup
+2021-10-01 11:08:03,759 INFO Entering Setup
+2021-10-01 11:08:07,852 DEBUG navigating to url
+2021-10-01 11:08:07,854 INFO Exiting setup
+2021-10-01 11:08:09,008 INFO email entered
+2021-10-01 11:08:10,161 INFO Password entered
+2021-10-01 11:08:22,324 INFO Logged in successfully
+2021-10-01 11:09:08,794 INFO Entering Setup
+2021-10-01 11:09:12,886 DEBUG navigating to url
+2021-10-01 11:09:12,887 INFO Exiting setup
+2021-10-01 11:09:14,153 INFO email entered
+2021-10-01 11:09:15,316 INFO Password entered
+2021-10-01 11:09:27,446 INFO Logged in successfully
+2021-10-01 11:09:35,614 INFO Entering Setup
+2021-10-01 11:09:41,406 DEBUG navigating to url
+2021-10-01 11:09:41,408 INFO Exiting setup
+2021-10-01 11:09:44,006 INFO Entering Setup
+2021-10-01 11:09:48,338 DEBUG navigating to url
+2021-10-01 11:09:48,342 INFO Exiting setup
+2021-10-01 11:09:49,495 INFO email entered
+2021-10-01 11:09:50,660 INFO Password entered
+2021-10-01 11:10:02,836 INFO Logged in successfully
+2021-10-01 11:11:09,491 INFO Entering Setup
+2021-10-01 11:11:13,995 DEBUG navigating to url
+2021-10-01 11:11:13,996 INFO Exiting setup
+2021-10-01 11:11:15,277 INFO email entered
+2021-10-01 11:11:16,460 INFO Password entered
+2021-10-01 11:11:28,566 INFO Logged in successfully
+2021-10-01 11:11:36,039 INFO Entering Setup
+2021-10-01 11:11:41,100 DEBUG navigating to url
+2021-10-01 11:11:41,103 INFO Exiting setup
+2021-10-01 11:11:47,536 INFO Entering Setup
+2021-10-01 11:11:51,793 DEBUG navigating to url
+2021-10-01 11:11:51,794 INFO Exiting setup
+2021-10-01 11:11:52,939 INFO email entered
+2021-10-01 11:11:54,100 INFO Password entered
+2021-10-01 11:12:06,240 INFO Logged in successfully
+2021-10-01 11:12:55,425 INFO Entering Setup
+2021-10-01 11:12:59,494 DEBUG navigating to url
+2021-10-01 11:12:59,497 INFO Exiting setup
+2021-10-01 11:13:00,767 INFO email entered
+2021-10-01 11:13:01,962 INFO Password entered
+2021-10-01 11:13:14,117 INFO Logged in successfully
+2021-10-01 11:13:21,938 INFO Entering Setup
+2021-10-01 11:13:29,295 DEBUG navigating to url
+2021-10-01 11:13:29,295 INFO Exiting setup
+2021-10-01 11:13:32,950 INFO Entering Setup
+2021-10-01 11:13:38,512 DEBUG navigating to url
+2021-10-01 11:13:38,514 INFO Exiting setup
+2021-10-01 11:13:39,655 INFO email entered
+2021-10-01 11:13:40,822 INFO Password entered
+2021-10-01 11:13:52,940 INFO Logged in successfully
+2021-10-01 11:17:26,058 INFO Entering Setup
+2021-10-01 11:17:31,005 DEBUG navigating to url
+2021-10-01 11:17:31,006 INFO Exiting setup
+2021-10-01 11:17:32,328 INFO email entered
+2021-10-01 11:17:33,476 INFO Password entered
+2021-10-01 11:17:45,617 INFO Logged in successfully
+2021-10-01 11:17:53,162 INFO Entering Setup
+2021-10-01 11:17:59,007 DEBUG navigating to url
+2021-10-01 11:17:59,008 INFO Exiting setup
+2021-10-01 11:18:00,121 INFO email entered
+2021-10-01 11:18:01,333 INFO Password entered
+2021-10-01 11:18:13,464 INFO Logged in successfully
+2021-10-01 11:19:12,362 INFO Entering Setup
+2021-10-01 11:19:16,424 DEBUG navigating to url
+2021-10-01 11:19:16,425 INFO Exiting setup
+2021-10-01 11:19:17,697 INFO email entered
+2021-10-01 11:19:18,858 INFO Password entered
+2021-10-01 11:19:30,999 INFO Logged in successfully
+2021-10-01 11:29:10,855 INFO Entering Setup
+2021-10-01 11:29:16,090 DEBUG navigating to url
+2021-10-01 11:29:16,091 INFO Exiting setup
+2021-10-01 11:29:17,390 INFO email entered
+2021-10-01 11:29:18,536 INFO Password entered
+2021-10-01 11:29:30,638 INFO Logged in successfully
+2021-10-01 11:33:43,786 INFO Entering Setup
+2021-10-01 11:33:48,702 DEBUG navigating to url
+2021-10-01 11:33:48,702 INFO Exiting setup
+2021-10-01 11:33:50,006 INFO email entered
+2021-10-01 11:33:51,187 INFO Password entered
+2021-10-01 11:34:03,336 INFO Logged in successfully
+2021-10-01 11:35:28,453 INFO Entering Setup
+2021-10-01 11:35:34,568 DEBUG navigating to url
+2021-10-01 11:35:34,568 INFO Exiting setup
+2021-10-01 11:35:35,862 INFO email entered
+2021-10-01 11:35:37,058 INFO Password entered
+2021-10-01 11:35:49,170 INFO Logged in successfully
+2021-10-01 12:57:12,404 INFO Entering Setup
+2021-10-01 12:57:17,997 DEBUG navigating to url
+2021-10-01 12:57:17,999 INFO Exiting setup
+2021-10-01 13:00:46,328 INFO Entering Setup
+2021-10-01 13:00:52,607 DEBUG navigating to url
+2021-10-01 13:00:52,607 INFO Exiting setup
+2021-10-01 13:01:55,896 INFO Entering Setup
+2021-10-01 13:02:03,580 DEBUG navigating to url
+2021-10-01 13:02:03,582 INFO Exiting setup
+2021-10-01 13:09:35,308 INFO Entering Setup
+2021-10-01 13:09:40,867 DEBUG navigating to url
+2021-10-01 13:09:40,867 INFO Exiting setup
+2021-10-01 13:19:40,262 INFO Entering Setup
+2021-10-01 13:19:47,805 DEBUG navigating to url
+2021-10-01 13:19:47,805 INFO Exiting setup
+2021-10-01 15:48:16,604 INFO Entering Setup
+2021-10-01 15:48:23,923 DEBUG navigating to url
+2021-10-01 15:48:23,925 INFO Exiting setup
+2021-10-01 15:48:25,323 INFO email entered
+2021-10-01 15:48:26,474 INFO Password entered
+2021-10-01 15:48:38,646 INFO Logged in successfully
+2021-10-01 15:48:48,408 INFO Entering Setup
+2021-10-01 15:48:53,050 DEBUG navigating to url
+2021-10-01 15:48:53,051 INFO Exiting setup
+2021-10-01 15:48:54,191 INFO email entered
+2021-10-01 15:48:55,370 INFO Password entered
+2021-10-01 15:49:07,518 INFO Logged in successfully
+2021-10-01 15:49:50,566 INFO Entering Setup
+2021-10-01 15:49:57,498 DEBUG navigating to url
+2021-10-01 15:49:57,501 INFO Exiting setup
+2021-10-01 15:50:00,545 INFO Entering Setup
+2021-10-01 15:50:09,877 DEBUG navigating to url
+2021-10-01 15:50:09,877 INFO Exiting setup
+2021-10-01 15:50:09,935 DEBUG navigating to url
+2021-10-01 15:50:09,935 INFO Exiting setup
+2021-10-01 15:50:10,218 DEBUG navigating to url
+2021-10-01 15:50:10,219 INFO Exiting setup
+2021-10-01 15:53:23,840 INFO Entering Setup
+2021-10-01 15:53:29,804 DEBUG navigating to url
+2021-10-01 15:53:29,805 INFO Exiting setup
+2021-10-01 15:53:31,191 INFO email entered
+2021-10-01 15:53:32,386 INFO Password entered
+2021-10-01 15:53:44,507 INFO Logged in successfully
+2021-10-01 15:53:57,237 INFO Entering Setup
+2021-10-01 15:54:02,270 DEBUG navigating to url
+2021-10-01 15:54:02,270 INFO Exiting setup
+2021-10-01 15:54:03,389 INFO email entered
+2021-10-01 15:54:04,570 INFO Password entered
+2021-10-01 15:54:16,692 INFO Logged in successfully
+2021-10-01 15:55:00,083 INFO Entering Setup
+2021-10-01 15:55:05,690 DEBUG navigating to url
+2021-10-01 15:55:05,690 INFO Exiting setup
+2021-10-01 15:55:10,776 INFO Entering Setup
+2021-10-01 15:55:20,333 DEBUG navigating to url
+2021-10-01 15:55:20,333 DEBUG navigating to url
+2021-10-01 15:55:20,336 INFO Exiting setup
+2021-10-01 15:55:20,337 INFO Exiting setup
+2021-10-01 15:55:20,352 DEBUG navigating to url
+2021-10-01 15:55:20,353 INFO Exiting setup
+2021-10-01 15:58:49,066 INFO Entering Setup
+2021-10-01 15:58:55,836 DEBUG navigating to url
+2021-10-01 15:58:55,837 INFO Exiting setup
+2021-10-01 15:58:57,218 INFO email entered
+2021-10-01 15:58:58,390 INFO Password entered
+2021-10-01 15:59:10,544 INFO Logged in successfully
+2021-10-01 15:59:23,484 INFO Entering Setup
+2021-10-01 15:59:29,399 DEBUG navigating to url
+2021-10-01 15:59:29,401 INFO Exiting setup
+2021-10-01 15:59:30,550 INFO email entered
+2021-10-01 15:59:31,703 INFO Password entered
+2021-10-01 15:59:43,874 INFO Logged in successfully
+2021-10-01 16:00:27,743 INFO Entering Setup
+2021-10-01 16:00:33,173 DEBUG navigating to url
+2021-10-01 16:00:33,174 INFO Exiting setup
+2021-10-01 16:00:37,918 INFO Entering Setup
+2021-10-01 16:00:50,234 DEBUG navigating to url
+2021-10-01 16:00:50,235 INFO Exiting setup
+2021-10-01 16:00:50,251 DEBUG navigating to url
+2021-10-01 16:00:50,252 INFO Exiting setup
+2021-10-01 16:00:50,252 DEBUG navigating to url
+2021-10-01 16:00:50,253 INFO Exiting setup
+2021-10-01 16:26:53,806 INFO Entering Setup
+2021-10-01 16:27:00,637 DEBUG navigating to url
+2021-10-01 16:27:00,637 INFO Exiting setup
+2021-10-01 16:27:02,061 INFO email entered
+2021-10-01 16:27:03,310 INFO Password entered
+2021-10-01 16:27:15,467 INFO Logged in successfully
+2021-10-01 16:27:30,672 INFO Entering Setup
+2021-10-01 16:27:36,025 DEBUG navigating to url
+2021-10-01 16:27:36,026 INFO Exiting setup
+2021-10-01 16:27:37,175 INFO email entered
+2021-10-01 16:27:38,391 INFO Password entered
+2021-10-01 16:27:50,577 INFO Logged in successfully
+2021-10-01 16:28:34,349 INFO Entering Setup
+2021-10-01 16:28:39,486 DEBUG navigating to url
+2021-10-01 16:28:39,486 INFO Exiting setup
+2021-10-01 17:59:19,541 INFO Entering Setup
+2021-10-01 17:59:26,858 DEBUG navigating to url
+2021-10-01 17:59:26,859 INFO Exiting setup
+2021-10-01 17:59:28,427 INFO email entered
+2021-10-01 17:59:30,085 INFO Password entered
+2021-10-01 17:59:42,228 INFO Logged in successfully
+2021-10-01 18:00:03,463 INFO Entering Setup
+2021-10-01 18:00:11,667 DEBUG navigating to url
+2021-10-01 18:00:11,669 INFO Exiting setup
+2021-10-01 18:00:12,838 INFO email entered
+2021-10-01 18:00:14,021 INFO Password entered
+2021-10-01 18:00:26,230 INFO Logged in successfully
+2021-10-01 18:01:10,779 INFO Entering Setup
+2021-10-01 18:01:16,388 DEBUG navigating to url
+2021-10-01 18:01:16,389 INFO Exiting setup
+2021-10-01 21:07:15,872 INFO Entering Setup
+2021-10-01 21:07:24,390 DEBUG navigating to url
+2021-10-01 21:07:24,392 INFO Exiting setup
+2021-10-01 21:07:25,974 INFO email entered
+2021-10-01 21:07:27,199 INFO Password entered
+2021-10-01 21:07:39,387 INFO Logged in successfully
+2021-10-01 21:07:50,273 INFO Entering Setup
+2021-10-01 21:07:55,245 DEBUG navigating to url
+2021-10-01 21:07:55,246 INFO Exiting setup
+2021-10-01 21:07:56,382 INFO email entered
+2021-10-01 21:07:57,605 INFO Password entered
+2021-10-01 21:08:09,765 INFO Logged in successfully
+2021-10-01 21:08:53,809 INFO Entering Setup
+2021-10-01 21:08:59,576 DEBUG navigating to url
+2021-10-01 21:08:59,577 INFO Exiting setup
+2021-10-01 21:17:23,831 INFO Entering Setup
+2021-10-01 21:17:30,398 DEBUG navigating to url
+2021-10-01 21:17:30,399 INFO Exiting setup
+2021-10-01 21:17:32,912 INFO email entered
+2021-10-01 21:17:34,186 INFO Password entered
+2021-10-01 21:17:46,375 INFO Logged in successfully
+2021-10-01 21:17:59,699 INFO Entering Setup
+2021-10-01 21:18:05,592 DEBUG navigating to url
+2021-10-01 21:18:05,593 INFO Exiting setup
+2021-10-01 21:18:06,881 INFO email entered
+2021-10-01 21:18:08,048 INFO Password entered
+2021-10-01 21:18:20,200 INFO Logged in successfully
+2021-10-01 21:19:03,418 INFO Entering Setup
+2021-10-01 21:19:08,157 DEBUG navigating to url
+2021-10-01 21:19:08,157 INFO Exiting setup
+2021-10-01 21:21:21,743 INFO Entering Setup
+2021-10-01 21:21:27,162 DEBUG navigating to url
+2021-10-01 21:21:27,163 INFO Exiting setup
+2021-10-01 21:21:28,620 INFO email entered
+2021-10-01 21:21:29,875 INFO Password entered
+2021-10-01 21:21:42,011 INFO Logged in successfully
+2021-10-01 21:21:54,501 INFO Entering Setup
+2021-10-01 21:21:59,228 DEBUG navigating to url
+2021-10-01 21:21:59,232 INFO Exiting setup
+2021-10-01 21:22:00,437 INFO email entered
+2021-10-01 21:22:01,805 INFO Password entered
+2021-10-01 21:22:14,058 INFO Logged in successfully
+2021-10-01 21:23:01,417 INFO Entering Setup
+2021-10-01 21:23:06,555 DEBUG navigating to url
+2021-10-01 21:23:06,555 INFO Exiting setup
+2021-10-03 13:55:24,406 INFO Entering Setup
+2021-10-03 13:55:31,180 DEBUG navigating to url
+2021-10-03 13:55:31,181 INFO Exiting setup
+2021-10-03 13:55:32,593 INFO email entered
+2021-10-03 13:55:33,761 INFO Password entered
+2021-10-03 13:55:45,944 INFO Logged in successfully
+2021-10-03 14:03:18,231 INFO Entering Setup
+2021-10-03 14:03:22,926 DEBUG navigating to url
+2021-10-03 14:03:22,927 INFO Exiting setup
+2021-10-03 14:03:24,342 INFO email entered
+2021-10-03 14:03:25,574 INFO Password entered
+2021-10-03 14:03:37,781 INFO Logged in successfully
+2021-10-03 14:04:04,495 INFO Entering Setup
+2021-10-03 14:04:10,199 DEBUG navigating to url
+2021-10-03 14:04:10,201 INFO Exiting setup
+2021-10-03 14:04:11,529 INFO email entered
+2021-10-03 14:04:12,748 INFO Password entered
+2021-10-03 14:04:24,907 INFO Logged in successfully
+2021-10-03 14:06:49,316 INFO Entering Setup
+2021-10-03 14:06:53,692 DEBUG navigating to url
+2021-10-03 14:06:53,693 INFO Exiting setup
+2021-10-03 14:06:55,001 INFO email entered
+2021-10-03 14:06:56,176 INFO Password entered
+2021-10-03 14:07:08,279 INFO Logged in successfully
+2021-10-03 14:08:28,025 INFO Entering Setup
+2021-10-03 14:08:35,597 DEBUG navigating to url
+2021-10-03 14:08:35,598 INFO Exiting setup
+2021-10-03 14:08:36,878 INFO email entered
+2021-10-03 14:08:38,104 INFO Password entered
+2021-10-03 14:08:50,289 INFO Logged in successfully
+2021-10-03 14:18:43,876 INFO Entering Setup
+2021-10-03 14:18:49,374 DEBUG navigating to url
+2021-10-03 14:18:49,376 INFO Exiting setup
+2021-10-03 14:18:50,852 INFO email entered
+2021-10-03 14:18:52,204 INFO Password entered
+2021-10-03 14:19:38,894 INFO Entering Setup
+2021-10-03 14:19:44,677 DEBUG navigating to url
+2021-10-03 14:19:44,679 INFO Exiting setup
+2021-10-03 14:19:46,139 INFO email entered
+2021-10-03 14:19:47,408 INFO Password entered
+2021-10-03 14:20:12,913 INFO Logged in successfully
+2021-10-03 14:22:26,126 INFO Entering Setup
+2021-10-03 14:22:30,056 DEBUG navigating to url
+2021-10-03 14:22:30,056 INFO Exiting setup
+2021-10-03 14:22:31,410 INFO email entered
+2021-10-03 14:22:32,667 INFO Password entered
+2021-10-03 14:22:44,903 INFO Logged in successfully
+2021-10-03 14:39:12,827 INFO Entering Setup
+2021-10-03 14:39:19,768 DEBUG navigating to url
+2021-10-03 14:39:19,769 INFO Exiting setup
+2021-10-03 14:39:21,300 INFO email entered
+2021-10-03 14:39:22,468 INFO Password entered
+2021-10-03 14:39:34,632 INFO Logged in successfully
